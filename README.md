@@ -12,6 +12,8 @@ N/A
 
 You can find the project here: https://trlivenp.github.io/Work-Day-Scheduler/
 
+![Recording of how the website functions](./assets/Untitled_Project_V1.gif)
+
 ## Credits
 
 Starter code provided by Rutgers Full stack bootcamp -  found here: https://github.com/coding-boot-camp/crispy-octo-meme
